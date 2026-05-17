@@ -233,7 +233,7 @@ Integrates financial real-time data:
 ### Use Case 1: Enterprise Annual Report Analysis
 
 ```
-User Query: "What was the operating revenue of Hangtian Changfeng in 2024? What is the YoY growth?"
+User Query: "What was the operating revenue of XXXX in 2024? What is the YoY growth?"
 
 System Response:
 - Retrieves 2024 annual report
@@ -245,7 +245,7 @@ System Response:
 ### Use Case 2: Patent Technology Query
 
 ```
-User Query: "What is the core technical solution of the ECMO oxygenator?"
+User Query: "What is the core technical solution of the aortic stent?"
 
 System Response:
 - Retrieves relevant patent documents
@@ -257,7 +257,7 @@ System Response:
 ### Use Case 3: Real-time Stock Query
 
 ```
-User Query: "What is today's stock price of Hangtian Changfeng?"
+User Query: "What is today's stock price of XXXX?"
 
 System Response:
 - Calls real-time data interface
